@@ -13,6 +13,8 @@ slides:
   - grail-flow
   - visual-basic-form-designer
   - mit-scratch
+  - blockly
+  - lego-mindstorms-nxt
   - smalltalk
   - eclipse-ide
   - processing-ide
