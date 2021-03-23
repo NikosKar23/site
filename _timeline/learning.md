@@ -17,6 +17,8 @@ events:
   - math-blaster
   - kidsim
   - mit-scratch
+  - blockly
+  - lego-mindstorms-nxt
   - sugar-neighborhood
   - minecraft-end-user
 ---
