@@ -18,3 +18,5 @@ tags:
   - LEGO
   - OLPC XO
 ---
+
+{% include_relative bio-resnick.md %}
